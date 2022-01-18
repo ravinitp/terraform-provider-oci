@@ -71,4 +71,5 @@ To test the provider run `make testacc`.
 $ make testacc
 ```
 
+
 > **Note:** The tests run against live OCI service APIs, you will need to configure environment variables with valid credientials as shown in the [documentation](https://www.terraform.io/docs/providers/oci/index.html).
